@@ -94,7 +94,7 @@ export default async function Home() {
           <h1 className="tracking-widest">Joey Dixon</h1>
           <div className="pt-7">
             <div className="tracking-[.4em] text-3xl uppercase">
-              Training with a World Champion
+              Training with a World Champion on AWS
             </div>
           </div>
           <div className="pt-14 flex gap-8 justify-center">
